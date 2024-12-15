@@ -51,7 +51,7 @@ CustomScroll slivers, Auth0 integration, and third-party SDKs.
 ---
 
 ## 📫 **Let’s Connect**
-- **Portfolio:** [LinkedIn](https://www.linkedin.com/in/dishank-jindal/) | [Upwork](https://www.upwork.com/freelancers/~username)  
-- **Email:** dishank.jindal@example.com
+- **Portfolio:** [LinkedIn](https://www.linkedin.com/in/dishankjindal/) 
+- **Email:** [reach.dishank@gmail.com](mailto:reach.dishank@gmail.com)
 
 Feel free to explore my repositories and reach out if you want to collaborate on exciting projects! 🚀
